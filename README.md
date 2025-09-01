@@ -1,6 +1,6 @@
 # NYC_Airbnb_Tableau_Dashboard
 
-![Airbnb Banner](https://github.com/dhrumil231/NYC_Airbnb_Tableau_Dashboard/tree/main)
+![Airbnb Banner](https://github.com/dhrumil231/NYC_Airbnb_Tableau_Dashboard/blob/main/Airbnb%20Logo.png)
 
 🗽 Overview
 The NYC Airbnb Dashboard is a data visualization project built with Tableau that provides a deep dive into the Airbnb rental market in New York City. By transforming raw listing data into interactive and insightful visualizations, this dashboard empowers potential hosts, travelers, and data enthusiasts to explore trends in pricing, location, property types, and guest reviews. This project showcases my ability to clean, analyze, and communicate complex data through a user-friendly and compelling visual narrative.
